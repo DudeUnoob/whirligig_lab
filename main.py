@@ -24,5 +24,6 @@ plt.xlabel('Angular Acceleration (rad/s^2)')
 plt.ylabel('Torque (Nm)')
 plt.legend()
 plt.grid(True)
+#plt.savefig("graph.png", pad_inches=1)
 plt.show()
 
